@@ -1,0 +1,101 @@
+Bin_ID,Area_Type,Current_Fill_Pct,Actual_Fill_Rate,Hours_Left,Lat,Lon,days
+B06,Market,33,12.38,5.41,20.9502,77.76579,Wednesday
+B03,Transport,23,8.55,9.01,20.8575,77.73219,Monday
+B04,Healthcare,37,3.58,17.6,20.93339,77.73219,Friday
+B02,Commercial,62,9.18,4.14,20.92059,77.75428,Saturday
+B02,Commercial,23,9.21,8.36,20.92059,77.75428,Tuesday
+B02,Commercial,74,11.12,2.34,20.92059,77.75428,Saturday
+B02,Commercial,36,10.08,6.35,20.92059,77.75428,Sunday
+B02,Commercial,56,10.71,4.11,20.92059,77.75428,Wednesday
+B02,Commercial,85,9.71,1.54,20.92059,77.75428,Sunday
+B02,Commercial,48,11.0,4.73,20.92059,77.75428,Sunday
+B05,Student residence,84,6.19,2.58,20.89595,77.74754,Friday
+B06,Market,82,10.96,1.64,20.9502,77.76579,Monday
+B05,Student residence,50,7.08,7.06,20.89595,77.74754,Thursday
+B06,Market,81,11.41,1.66,20.9502,77.76579,Friday
+B02,Commercial,59,10.33,3.97,20.92059,77.75428,Monday
+B06,Market,64,12.23,2.94,20.9502,77.76579,Saturday
+B02,Commercial,70,9.28,3.23,20.92059,77.75428,Tuesday
+B06,Market,31,13.17,5.24,20.9502,77.76579,Tuesday
+B04,Healthcare,82,5.54,3.25,20.93339,77.73219,Sunday
+B04,Healthcare,37,4.97,12.68,20.93339,77.73219,Friday
+B02,Commercial,72,10.54,2.66,20.92059,77.75428,Monday
+B01,Depot,51,2.64,18.58,20.8818,77.7471,Thursday
+B04,Healthcare,56,5.19,8.48,20.93339,77.73219,Thursday
+B02,Commercial,22,8.95,8.71,20.92059,77.75428,Saturday
+B05,Student residence,91,6.12,1.47,20.89595,77.74754,Wednesday
+B01,Depot,85,2.02,7.42,20.8818,77.7471,Wednesday
+B04,Healthcare,49,5.91,8.63,20.93339,77.73219,Thursday
+B05,Student residence,41,7.48,7.89,20.89595,77.74754,Saturday
+B04,Healthcare,58,5.63,7.46,20.93339,77.73219,Tuesday
+B03,Transport,76,8.17,2.94,20.8575,77.73219,Wednesday
+B01,Depot,72,2.97,9.43,20.8818,77.7471,Friday
+B05,Student residence,57,7.33,5.87,20.89595,77.74754,Thursday
+B04,Healthcare,25,3.6,20.86,20.93339,77.73219,Thursday
+B02,Commercial,77,10.77,2.14,20.92059,77.75428,Friday
+B02,Commercial,84,10.95,1.46,20.92059,77.75428,Monday
+B05,Student residence,41,6.45,9.15,20.89595,77.74754,Monday
+B05,Student residence,36,6.02,10.63,20.89595,77.74754,Wednesday
+B06,Market,94,10.67,0.56,20.9502,77.76579,Sunday
+B05,Student residence,21,6.71,11.77,20.89595,77.74754,Saturday
+B06,Market,42,12.84,4.52,20.9502,77.76579,Friday
+B04,Healthcare,24,6.45,11.79,20.93339,77.73219,Wednesday
+B02,Commercial,42,9.81,5.91,20.92059,77.75428,Monday
+B02,Commercial,81,9.89,1.92,20.92059,77.75428,Tuesday
+B03,Transport,75,7.07,3.54,20.8575,77.73219,Friday
+B05,Student residence,60,7.08,5.65,20.89595,77.74754,Thursday
+B04,Healthcare,46,3.82,14.12,20.93339,77.73219,Monday
+B02,Commercial,63,9.6,3.85,20.92059,77.75428,Thursday
+B04,Healthcare,83,4.2,4.05,20.93339,77.73219,Wednesday
+B02,Commercial,85,11.45,1.31,20.92059,77.75428,Wednesday
+B05,Student residence,85,5.13,2.93,20.89595,77.74754,Monday
+B05,Student residence,60,7.04,5.68,20.89595,77.74754,Friday
+B04,Healthcare,81,5.26,3.61,20.93339,77.73219,Saturday
+B05,Student residence,68,4.88,6.55,20.89595,77.74754,Thursday
+B04,Healthcare,55,4.49,10.03,20.93339,77.73219,Friday
+B05,Student residence,33,4.51,14.86,20.89595,77.74754,Monday
+B03,Transport,66,9.4,3.62,20.8575,77.73219,Friday
+B04,Healthcare,82,6.41,2.81,20.93339,77.73219,Monday
+B03,Transport,79,7.09,2.96,20.8575,77.73219,Wednesday
+B01,Depot,74,2.02,12.89,20.8818,77.7471,Sunday
+B06,Market,82,12.95,1.39,20.9502,77.76579,Wednesday
+B04,Healthcare,80,6.43,3.11,20.93339,77.73219,Wednesday
+B03,Transport,29,6.96,10.21,20.8575,77.73219,Wednesday
+B03,Transport,57,8.55,5.03,20.8575,77.73219,Sunday
+B02,Commercial,54,11.21,4.1,20.92059,77.75428,Friday
+B02,Commercial,21,9.3,8.49,20.92059,77.75428,Sunday
+B03,Transport,82,8.09,2.23,20.8575,77.73219,Thursday
+B04,Healthcare,29,5.78,12.28,20.93339,77.73219,Friday
+B03,Transport,42,7.13,8.14,20.8575,77.73219,Friday
+B05,Student residence,90,4.62,2.16,20.89595,77.74754,Tuesday
+B04,Healthcare,23,5.32,14.47,20.93339,77.73219,Friday
+B01,Depot,36,1.58,40.4,20.8818,77.7471,Tuesday
+B03,Transport,65,8.6,4.07,20.8575,77.73219,Thursday
+B06,Market,24,11.64,6.53,20.9502,77.76579,Saturday
+B01,Depot,81,2.54,7.47,20.8818,77.7471,Tuesday
+B06,Market,24,12.9,5.89,20.9502,77.76579,Thursday
+B01,Depot,66,0.71,48.19,20.8818,77.7471,Tuesday
+B01,Depot,93,3.03,2.31,20.8818,77.7471,Tuesday
+B05,Student residence,47,5.72,9.27,20.89595,77.74754,Thursday
+B04,Healthcare,94,3.56,1.69,20.93339,77.73219,Saturday
+B02,Commercial,47,10.92,4.86,20.92059,77.75428,Sunday
+B05,Student residence,26,6.65,11.12,20.89595,77.74754,Thursday
+B05,Student residence,33,5.68,11.79,20.89595,77.74754,Thursday
+B06,Market,68,10.65,3.01,20.9502,77.76579,Wednesday
+B06,Market,85,12.25,1.22,20.9502,77.76579,Sunday
+B02,Commercial,44,11.23,4.99,20.92059,77.75428,Wednesday
+B04,Healthcare,42,3.57,16.25,20.93339,77.73219,Monday
+B04,Healthcare,29,4.37,16.26,20.93339,77.73219,Tuesday
+B02,Commercial,45,10.37,5.31,20.92059,77.75428,Saturday
+B06,Market,64,11.99,3.0,20.9502,77.76579,Friday
+B01,Depot,89,1.07,10.24,20.8818,77.7471,Wednesday
+B01,Depot,57,2.35,18.32,20.8818,77.7471,Wednesday
+B03,Transport,65,6.83,5.13,20.8575,77.73219,Wednesday
+B06,Market,41,12.06,4.89,20.9502,77.76579,Wednesday
+B01,Depot,25,1.58,47.56,20.8818,77.7471,Friday
+B06,Market,92,12.41,0.64,20.9502,77.76579,Wednesday
+B06,Market,44,11.14,5.03,20.9502,77.76579,Friday
+B03,Transport,21,7.66,10.31,20.8575,77.73219,Tuesday
+B02,Commercial,66,10.75,3.16,20.92059,77.75428,Friday
+B02,Commercial,61,10.65,3.66,20.92059,77.75428,Friday
+B03,Transport,30,6.63,10.56,20.8575,77.73219,Monday

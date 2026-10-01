@@ -1,0 +1,7 @@
+Bin_ID,Name,Lat,Lon,Type,Current_Fill_Pct,Fill_Rate_Per_Hr,Hours_Left
+B01,Sipna Depot,20.8818,77.7471,Depot,31,2,34.5
+B02,Rajapeth,20.92059,77.75428,Commercial,87,10,1.3
+B03,Badnera Stn,20.8575,77.73219,Transport,72,8,3.5
+B04,Irwin Area,20.93339,77.73219,Healthcare,85,5,3.0
+B05,Sai nagar,20.89595,77.74754,Student residence,81,6,3.1666666666666665
+B06,Gadge Nagar,20.9502,77.76579,Market,65,12,2.9166666666666665
